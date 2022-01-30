@@ -16,5 +16,4 @@ int main()
         } 
         std::cout << z_array[i] << ",";
     }
-    return z_array;
 }
